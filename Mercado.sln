@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistema.UI", "sistema.UI.csproj", "{5E253B81-9F17-47E7-97B1-B4DD3D8AC32A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merc.DAL", "..\Merc.DAL\Merc.DAL.csproj", "{8A30D293-A15E-4B95-8F46-AF352A7E0928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merc.BLL", "..\Merc.BLL\Merc.BLL.csproj", "{C02D0731-8A60-4940-AD12-CD9CEEFFE3D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E253B81-9F17-47E7-97B1-B4DD3D8AC32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E253B81-9F17-47E7-97B1-B4DD3D8AC32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E253B81-9F17-47E7-97B1-B4DD3D8AC32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E253B81-9F17-47E7-97B1-B4DD3D8AC32A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A30D293-A15E-4B95-8F46-AF352A7E0928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A30D293-A15E-4B95-8F46-AF352A7E0928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A30D293-A15E-4B95-8F46-AF352A7E0928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A30D293-A15E-4B95-8F46-AF352A7E0928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02D0731-8A60-4940-AD12-CD9CEEFFE3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02D0731-8A60-4940-AD12-CD9CEEFFE3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02D0731-8A60-4940-AD12-CD9CEEFFE3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02D0731-8A60-4940-AD12-CD9CEEFFE3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFBDC785-69DF-445C-A35C-81FFB1187D85}
+	EndGlobalSection
+EndGlobal
